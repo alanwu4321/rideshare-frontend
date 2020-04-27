@@ -1,4 +1,25 @@
 
+### Tech Overview
+
+<details>
+  
+ <summary>
+<i>Architecture & Design</i>
+</summary>
+
+<br>
+  <br>
+ 
+![Schema](https://s3.us-east-2.amazonaws.com/uwrideshare.com/design.png)
+
+ </details>
+ 
+
+ [API Documentation](https://s3.us-east-2.amazonaws.com/uwrideshare.com/apidoc/index.html)
+ 
+
+ [Demo](https://s3.us-east-2.amazonaws.com/uwrideshare.com/demo.mp4)
+ 
 ### Mission
 
 I have always enjoyed exploring problems that are true to our daily lives. In fact, rideshare has always been a preferable way to public transit owing to its affordability and efficiency. However, there has not been a solution to match passenger to those drivers who happen to be heading to the same destination as them. Most of us usually have to search countless Facebook posts and communicate with drivers for hours to find a ride. Indeed, Uber is always available, yet if one wants to travel long-distance, the passenger would have to pay almost twice or triple the price a rideshare driver would charge. Therefore, one of the projects I am working on currently is building a ReactJS ride share app to match student driver and passenger who shared the same destination.
