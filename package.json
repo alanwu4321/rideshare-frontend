@@ -15,7 +15,7 @@
     "@expo/samples": "2.1.1",
     "@expo/vector-icons": "^8.0.0",
     "@react-native-community/async-storage": "^1.4.2",
-    "expo": "^31.0.2",
+    "expo": "^46.0.14",
     "fitty": "^2.2.6",
     "native-base": "v2.7.0",
     "prop-types": "^15.6.2",
